@@ -1,0 +1,9 @@
+html {
+  background-color: #efeee9;
+  font-family: "Dosis", sans-serif;
+}
+nav ol {
+  list-style-type: none;
+  color: #ffffff;
+  display: block;
+}
