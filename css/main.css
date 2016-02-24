@@ -1,9 +1,17 @@
 html {
   background-color: #efeee9;
   font-family: "Dosis", sans-serif;
+  box-sizing: border-box;
 }
 nav ol {
   list-style-type: none;
   color: #ffffff;
   display: block;
+  text-align: center;
+  background-color: #9a816d;
+  border-color: #795437;
+}
+
+h1{
+  text-align: center;
 }
